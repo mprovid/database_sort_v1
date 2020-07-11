@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="11px" viewBox="0 0 18 11" enable-background="new 0 0 18 11" xml:space="preserve" aria-labelledby="title desc" aria-describedby="desc" role="img">
+	<!-- Visual Materials icon -->
+	<title id="title">Visual Materials</title>
+	<desc id="desc">This icon identifies resources containing visual content</desc>
+	
+	<!-- a xlink:href="http://example.com" tabindex="0" role="link" --> <!-- /a -->
+
+	<!-- blue circle -->
+	<g id="layer1">
+		<ellipse fill="#4D3E98" cx="8.921" cy="4.612" rx="4.323" ry="4.281"/>
+	</g>
+	<!-- white circle -->
+	<g id="layer2">
+		<ellipse fill="#FFFFFF" cx="8.379" cy="3.951" rx="1.834" ry="1.949"/>
+	</g>
+	<!-- outline -->
+	<g id="layer3">
+		<path d="M17.934,5.45c-3.92,7.28-14.19,7.12-17.84,0.05V5.41C3.744-1.66,14.014-1.82,17.934,5.45z M16.474,5.45
+				c-4.32-5.74-11.36-5.45-14.94,0C5.174,11,12.154,11.24,16.474,5.45z"/>
+	</g>
+	<text style="visibility:hidden;">Visual</text>
+</svg>

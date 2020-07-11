@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="13px"
+	 viewBox="0 0 13 13" enable-background="new 0 0 13 13" xml:space="preserve" aria-labelledby="title desc" aria-describedby="desc" role="img">
+	<!-- M. Providenti 2018, External Link icon -->
+	<title id="title">External Link</title>
+	<desc id="desc">This icon indicates that you are leaving this domain.</desc>
+	
+	<!-- a xlink:href="http://example.com" tabindex="0" role="link" --> <!-- /a -->
+		<!-- box -->
+		<g id="layer1">
+			<polygon fill="#B1B5E7" points="3.902,4 0.969,4 0.969,11.867 8.969,11.867 8.969,9.067 8.035,9 8.035,10.933 2.035,10.933 
+				2.035,5.067 3.902,5.067 "/>
+		</g>
+		<!-- arrow fill -->
+		<g id="layer2">
+					<polygon fill="#D7D9F2" points="11.738,7.082 10.191,5.625 6.767,9.267 3.641,6.27 7.212,2.638 5.665,1.067 11.738,1.067 "/>	
+		</g>
+		<!-- arrow -->
+		<g id="layer3">
+					<polygon fill="none" stroke="#B1B5E7" stroke-miterlimit="10" points="5.81,1.067 11.883,1.067 11.883,7.082 10.336,5.625 
+						6.764,9.267 3.637,6.27 7.357,2.638 "/>
+		</g>
+		<text style="visibility:hidden;">External Link</text>
+</svg>

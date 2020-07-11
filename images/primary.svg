@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="17px"
+	 height="16px" viewBox="0 0 17 16" enable-background="new 0 0 17 16" xml:space="preserve" aria-labelledby="title desc" aria-describedby="desc" role="img">
+	<!-- Print icon -->
+	<title id="title">Primary Sources</title>
+	<desc id="desc">This icon identifies primary sources.</desc>
+	
+	<!-- a xlink:href="http://example.com" tabindex="0" role="link" --> <!-- /a -->
+
+	<!-- black border -->
+	<g id="layer1">
+		<rect x="0.5" y="0.5" width="16" height="6"/>
+		<rect x="1.5" y="6.5" width="14" height="9"/>
+	</g>
+	<!-- tan fill -->
+	<g id="layer2">
+		<rect x="2.5" y="2.5" fill="#EFE4B0" width="12" height="2.067"/>
+		<rect x="3.5" y="6.5" fill="#EFE4B0" width="9.933" height="7"/>
+	</g>
+	<!-- handle outline -->
+	<g id="layer3">
+		<path d="M12.5,9c0,0.828-0.873,1.5-1.333,1.5H5.833C5.373,10.5,4.5,9.828,4.5,9l0,0c0-0.828,0.873-1.5,1.333-1.5h5.333
+			C11.627,7.5,12.5,8.172,12.5,9L12.5,9z"/>
+	</g>
+	<!-- handle fill -->
+	<g id="layer4">
+	<path fill="#FFFFFF" d="M11.233,9c0,0.35-0.597,0.633-0.911,0.633H6.678C6.363,9.633,5.767,9.35,5.767,9l0,0
+		c0-0.35,0.597-0.633,0.911-0.633h3.644C10.637,8.367,11.233,8.65,11.233,9L11.233,9z"/>
+	</g>
+	<text style="visibility:hidden;">Primary Sources</text>
+</svg>

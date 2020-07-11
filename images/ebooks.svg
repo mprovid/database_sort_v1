@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="16px"
+	 viewBox="0 0 14 16" enable-background="new 0 0 14 16" xml:space="preserve" aria-labelledby="title desc" aria-describedby="desc" role="img">
+	<!-- Print icon -->
+	<title id="title">Ebooks</title>
+	<desc id="desc">This icon identifies eBooks.</desc>
+	
+	<!-- a xlink:href="http://example.com" tabindex="0" role="link" --> <!-- /a -->
+	<!-- book -->
+	<g id="layer1">
+		<path fill="#6154A4" d="M13.539,15.188c0.008,0.255-0.068,0.441-0.307,0.546c-3.649,0-7.297,0-10.946,0
+			c-0.027-0.008-0.053-0.019-0.081-0.024c-1.013-0.174-1.679-0.983-1.678-2.01c0.003-3.821,0.003-7.642,0-11.464
+			c-0.001-0.83,0.541-1.598,1.332-1.859c0.132-0.044,0.268-0.074,0.402-0.111c3.657,0,7.314,0,10.971,0
+			c0.241,0.105,0.307,0.292,0.307,0.546c-0.005,3.763-0.003,7.526-0.004,11.289c0,0.333-0.114,0.464-0.441,0.505
+			c-0.061,0.008-0.123,0.01-0.185,0.01c-3.422,0-6.843,0-10.264,0c-0.078,0-0.156,0.001-0.234,0.005
+			c-0.572,0.031-1.05,0.524-1.067,1.099c-0.02,0.677,0.496,1.198,1.196,1.198c3.356,0.002,6.711,0.001,10.066,0
+			c0.036,0,0.071-0.004,0.115-0.007c0-0.055,0-0.099,0-0.144c0-0.313-0.002-0.626,0.001-0.939c0.002-0.213,0.1-0.36,0.267-0.416
+			c0.278-0.093,0.54,0.09,0.544,0.392C13.539,14.266,13.525,14.727,13.539,15.188z M3.59,10.396
+			C3.595,9.058,3.593,7.72,3.593,6.382c0-1.342,0-2.684-0.001-4.027c0-0.074-0.004-0.149-0.02-0.22
+			C3.516,1.892,3.247,1.76,3.02,1.86C2.804,1.955,2.762,2.141,2.762,2.35c0,2.672,0,5.344,0.001,8.017
+			c0,0.074,0.004,0.149,0.017,0.221c0.029,0.168,0.161,0.301,0.329,0.327c0.17,0.027,0.321-0.027,0.401-0.179
+			C3.562,10.636,3.589,10.51,3.59,10.396z"/>	
+	</g>
+	<!-- E -->
+	<g id="layer2">
+		<rect x="4.2" y="1.827" fill="none" width="11.467" height="11.64"/>
+			<text transform="matrix(1 0 0 1 4.2003 11.1336)" fill="#FFFF2C" stroke="#FF0033" stroke-width="0.25" stroke-miterlimit="10" font-family="'Arial-BoldMT'" font-size="13">E</text>
+	</g>
+	<!-- E -->
+	<g id="layer3">
+		<rect x="4.2" y="1.827" fill="none" width="11.467" height="11.64"/>
+		<text transform="matrix(1 0 0 1 4.2003 11.1336)" fill="#FFFF2C" font-family="'Arial-BoldMT'" font-size="13">E</text>
+		<rect x="-5" y="-3.2" fill="none" width="21.8" height="18.8"/>
+	</g>
+	<text style="visibility:hidden;">eBooks</text>
+		
+</svg>

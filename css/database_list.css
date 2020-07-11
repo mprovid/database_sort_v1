@@ -1,0 +1,118 @@
+.button {border: 1px solid transparent; background: transparent;cursor:pointer;}
+.button:hover, .button:focus {border: 1px solid silver; background: #efefef;cursor:pointer; color: red;}
+
+.moreabout {display:inline-block; padding-top: 1em;}
+dl>div {padding-bottom: 1em;}
+dt {font-weight: bold;}
+.visually-hidden {
+    clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}
+.moreabout, .key {font-weight:bold;}
+.toggle ul {margin-top: 0}
+.moreabouttitle {font-style:italic;}
+dl div:nth-child(odd) {background: #efefef}
+.toggle {display:none;}
+main .icon-container {float:right;}
+.show-tags {
+	display: inline-block;
+    margin-left: 3px;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	}
+.tags span {border: 1px solid silver; padding: 0 2px; margin: 2px;}
+#legend li, #legend li {border: 1px solid transparent;}
+#legend li:hover, #legend li:focus {cursor: pointer; border: 1px solid red; color: red;}
+
+.icon-audiomaterials {
+	width: 15px;
+	height: 16px;
+	background-image: url(../images/audio.svg);
+	background-size: 15px 16px;
+	}
+.icon-citationonly {
+	width: 15px;
+	height: 16px;
+	background-image: url(../images/citation.svg);
+	background-size: 15px 16px;
+	}
+.icon-ebooks {
+	width: 14px;
+	height: 16px;
+	background-image: url(../images/ebooks.svg);
+	background-size: 14px 16px;
+	}
+.
+.external-link {
+	width: 13px;
+	height: 13px;
+	background-image: url(../images/external.svg);
+	background-size: 13px 13px;
+	}
+.icon-fulltextincluded {
+	width: 15px;
+	height: 16px;
+	background-image: url(../images/fulltext.svg);
+	background-size: 15px 16px;
+	} 
+.icon-kyvl {
+	width: 16px;
+	height: 16px;
+	background-image: url(../images/kyvl.svg);
+	background-size: 16px 16px;
+	}
+.icon-localcollections {
+	width: 12px;
+	height: 16px;
+	background-image: url(../images/local.svg);
+	background-size: 12px 16px;
+	}
+.icon-newspapers {
+	width: 12px;
+	height: 16px;
+	background-image: url(../images/newspapers.svg);
+	background-size: 12px 16px;
+	}
+.icon-openaccess {
+	width: 11px;
+	height: 16px;
+	background-image: url(../images/open_access.svg);
+	background-size: 11px 16px;
+	}
+.icon-printindex {
+	width: 14px;
+	height: 16px;
+	background-image: url(../images/print.svg);
+	background-size: 14px 16px;
+	}
+.icon-recommendedforgeneralresearch {
+	width: 17px;
+	height: 16px;
+	background-image: url(../images/recommended.svg);
+	background-size: 17px 16px;
+	}
+.icon-governmentmaterials {
+	width: 17px;
+	height: 15px;
+	background-image: url(../images/fdlp.svg);
+	background-size: 17px 15px;
+	}
+.icon-visualmaterials {
+	width: 17px;
+	height: 11px;
+	background-image: url(../images/visual.svg);
+	background-size: 17px 11px;
+	}
+.icon-primarysources {
+	background-image: url(../images/primary.svg);
+	width: 18px;
+	height: 15px;
+	background-size: 18px 15px;
+	}

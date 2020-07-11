@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="17px"
+	 height="16px" viewBox="0 0 17 16" enable-background="new 0 0 17 16" xml:space="preserve" aria-labelledby="title desc" aria-describedby="desc" role="img">
+	<!-- Steely Only icon -->
+	<title id="title">Steely Only</title>
+	<desc id="desc">This icon identifies items only available within Steely Library.</desc>
+	
+	<!-- a xlink:href="http://example.com" tabindex="0" role="link" --> <!-- /a -->
+
+	<!-- black -->
+	<g id="layer1">
+		<polygon points="0.641,15.718 0.641,13.682 14.077,0.282 16.572,0.282 16.614,15.718 	"/>
+	</g>
+	<!-- gold -->
+	<g id="layer2">
+		<polygon fill="#FFC90E" points="2.029,14.632 2.029,13.932 14.527,1.446 15.527,1.446 15.581,14.681 	"/>
+	</g>
+	<text style="visibility:hidden;">Steely Only</text>
+</svg>

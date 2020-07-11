@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="16px"
+	 viewBox="0 0 15 16" enable-background="new 0 0 15 16" xml:space="preserve" aria-labelledby="title desc" aria-describedby="desc" role="img">
+	<!-- M. Providenti 2018, Citation Only icon -->
+	<title id="title">Citation Only</title>
+	<desc id="desc">This icon identifies resources containing mostly citations.</desc>
+	
+	<!-- a xlink:href="http://example.com" tabindex="0" role="link" --> <!-- /a -->
+		<!-- black border -->
+		<g id="layer1">
+			<polygon points="0.58,0.3 0.58,15.367 11.78,15.367 11.78,4.433 7.647,0.3"/>
+		</g>
+		<!-- gray background -->
+		<g id="layer2">
+			<polygon fill="#C3C3C3" points="2.133,1.733 2.133,13.933 10.133,13.933 10.133,5.08 7.198,5.039 7.181,1.733"/>
+		</g>
+		<!-- red minus -->
+		<g id="layer3">
+			<rect x="4.247" y="8.961" width="10.333" height="4.345"/>
+		</g>
+		<!-- minus background -->
+		<g id="layer4">
+			<rect x="5.847" y="10.092" fill="#F91D28" width="7.267" height="1.914"/>
+		</g>
+		<text style="visibility:hidden;">Citation Only</text>
+</svg>
